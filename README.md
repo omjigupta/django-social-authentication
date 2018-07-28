@@ -31,7 +31,7 @@ $ pipenv shell
 ```
 4. Set up Social application in admin section
   * http://127.0.0.1:8000/admin/ click on social applications http://127.0.0.1:8000/admin/socialaccount/socialapp/
-  * Add social application for github using your github app secret key and client id.
+  * Add social application using your github app secret key and client id.
 
 5.  Endpoints
 
